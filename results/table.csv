@@ -1,4 +1,4 @@
-reviewer,n,wrong_answers,false_acceptance_rate,catch_rate,false_rejection_rate,agreement_on_error
-Same-family AI judge,60,25,0.36,0.64,0.086,0.15
-Different-company AI judge,60,25,0.16,0.84,0.114,0.067
-Ground-truth check (no model),60,25,0.0,1.0,0.0,0.0
+reviewer,approves_wrong_answers,catches_the_error,provenance
+Same-family AI judge,Often,Misses most of them,illustrative
+Different-company AI judge,Sometimes,Catches more of them,illustrative
+Ground-truth check (no model),Never,Catches all of them,illustrative

@@ -18,20 +18,21 @@ already knows which answers are correct. The number that matters is
 **false-acceptance**: of the answers that are actually wrong, how many did the
 reviewer approve?
 
-| Reviewer | False-acceptance | Catch rate |
-|---|---:|---:|
-| Same-family AI judge | highest | lowest |
-| Different-company AI judge | lower | higher |
-| Ground-truth check (no model) | 0% | 100% |
+| Reviewer | Approves wrong answers | Catches the error |
+|---|---|---|
+| Same-family AI judge | Often | Misses most of them |
+| Different-company AI judge | Sometimes | Catches more of them |
+| Ground-truth check (no model) | Never | Catches all of them |
 
-The rows are ordered so that diversity increases downward, and false-acceptance
-falls as it does. The non-model check sits at zero by construction, because it
-compares the answer to the source rather than to another model's opinion. That
-gap between the top row and the bottom is the whole point: the fix is not a
-smarter model, it is a different *kind* of check.
+The rows are ordered so that diversity increases downward, and the error-catching
+improves as it does. The non-model check catches everything by construction,
+because it compares the answer to the source rather than to another model's
+opinion. That gap between the top row and the bottom is the whole point: the fix
+is not a smarter model, it is a different *kind* of check.
 
-The exact figures live in [`results/table.md`](results/table.md), stamped with
-their provenance.
+This shipped example is **illustrative**, so it shows the pattern rather than
+figures. Exact percentages appear in [`results/table.md`](results/table.md) only
+once you record a measured run (see below).
 
 ## Provenance: illustrative vs. measured
 
