@@ -1,0 +1,5 @@
+# Only needed to RECORD real verdicts (src/record.py). Not needed to run the
+# scorer or the demo offline.
+anthropic>=0.40
+openai>=1.40
+finstructbench

@@ -1,0 +1,2 @@
+# Core: scoring, reporting, tests. No network, no keys.
+pytest>=7.0

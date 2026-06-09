@@ -1,0 +1,499 @@
+{
+  "provenance": "illustrative",
+  "recorded_at": null,
+  "benchmark": "FinStructBench (illustrative stand-in; not a real run)",
+  "generator": {
+    "model": "illustrative",
+    "overall_accuracy": 0.58
+  },
+  "judges": [
+    "same_family",
+    "cross_family"
+  ],
+  "judge_models": {
+    "same_family": "illustrative",
+    "cross_family": "illustrative"
+  },
+  "items": [
+    {
+      "qid": "q001",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q002",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q003",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q004",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q005",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q006",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q007",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q008",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q009",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q010",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q011",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q012",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q013",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q014",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q015",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q016",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q017",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q018",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q019",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q020",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q021",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q022",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q023",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q024",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q025",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q026",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q027",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q028",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q029",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q030",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q031",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q032",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q033",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q034",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q035",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q036",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q037",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q038",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q039",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q040",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q041",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q042",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q043",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q044",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q045",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q046",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q047",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q048",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q049",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q050",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q051",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q052",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q053",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q054",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q055",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q056",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q057",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": true
+      }
+    },
+    {
+      "qid": "q058",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q059",
+      "truth_correct": false,
+      "verdicts": {
+        "same_family": false,
+        "cross_family": false
+      }
+    },
+    {
+      "qid": "q060",
+      "truth_correct": true,
+      "verdicts": {
+        "same_family": true,
+        "cross_family": false
+      }
+    }
+  ]
+}
